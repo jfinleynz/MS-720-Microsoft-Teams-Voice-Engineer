@@ -683,22 +683,24 @@ In this task you will order a phone number in the Teams Admin Center to assign t
 6. Select **United States** as **Country or region.**
 
 7. For Number Type, select User (subscriber).
+						
+8. For Operator, select Microsoft
+						
+9. The Quantity field will now appear, enter 1.
 
-8. The Quantity field will now appear, enter 1.
-
-9. For **Search for new numbers** select **Search by area code** and enter **206**.
+10. For **Search for new numbers** select **Search by area code** and enter **206**.
 
 Note: The phoner numbers can be subject to changes, dependent on the lab provider and possibly needs to be adjusted.
 
-10. When all fields are complete, select **Next**. Microsoft will now reserve and present some numbers for you. If there are no numbers available for your selected State/City combination, select another State/City and try again.
+11. When all fields are complete, select **Next**. Microsoft will now reserve and present some numbers for you. If there are no numbers available for your selected State/City combination, select another State/City and try again.
 
-11. You should see 1 206 area code number, select **Place Order.**
+12. You should see 1 206 area code number, select **Place Order.**
 
-12. You will see “Thank you, your order has been placed!”, select **Finish.**
+13. You will see “Thank you, your order has been placed!”, select **Finish.**
 
-13. In the voice, under **phone numbers**, you should see your number. Note in some cases this may take 5-10 minutes to appear.
+14. In the voice, under **phone numbers**, you should see your number. Note in some cases this may take 5-10 minutes to appear.
 
-14. Leave the browser window open at the end of the task.
+15. Leave the browser window open at the end of the task.
 
 You have successfully ordered a phone number through the Teams admin center.
 
