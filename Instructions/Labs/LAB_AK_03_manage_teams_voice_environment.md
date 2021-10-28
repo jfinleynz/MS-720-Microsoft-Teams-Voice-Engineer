@@ -6,7 +6,7 @@ lab:
     module: 'Module 1: Plan and configure Teams Phone'
 ---
 
-# Lab 04: Manage your Teams Phone environment
+# Lab 03: Manage your Teams Phone environment
 # Student lab answer key
 
 ## Lab Scenario
@@ -87,7 +87,7 @@ In this task you validate audio conferencing is enabled for Katie Jordan and cha
 
 6. Set **Include toll-free numbers in meeting requests from user** to **Off**.
 
-7. Select the **Toll number** dropdown and change it to **+1 689 206 9333 Orlando, United States**.
+7. Select the **Toll number** dropdown and change it to **+1 929 329 2852 Orlando, United States**.
 
 8. Select **Apply**.
 
@@ -135,9 +135,9 @@ On the Teams Phone, we then enter provisioning information to ensure it is ready
 
 2. Sign in as **Katie Jorden**, who has the Teams Administrator role.
 
-3. Select **Devices** and then select **IP Phones**.
+3. Select **Teams Devices** and then select **Phones**.
 
-4. Select **Actions in the upper right corner**, then from the drop-down menu, select **Provision Devices.**
+4. Select **Actions** in the upper right corner, then from the drop-down menu, select **Provision Devices.**
 
 5. The **Provision devices** page shows. Under **Waiting on activation** select **Add MAC addresses manually**.
 
